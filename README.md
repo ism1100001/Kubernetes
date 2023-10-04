@@ -1,4 +1,4 @@
 # Kubernetes
 Tutorial of Kubernetes
 
-![Alt text](./img/Kubernetes-Arch.png "Title")
+![Alt text](./img/Kubernetes-arch.png "Title")
